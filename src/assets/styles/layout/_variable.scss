@@ -1,0 +1,18 @@
+$yellow: #ffea00;
+$white: #fff;
+$orange: #ff742b;
+
+@mixin fredoka_font(){
+	font-family: 'Fredoka One', cursive;
+}
+@mixin relaway_font(){
+	font-family: 'Raleway', sans-serif;
+}
+@mixin ptserif_font(){
+	font-family: 'PT Serif', serif;
+}
+@mixin quicksand_font(){
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 700;
+}
+

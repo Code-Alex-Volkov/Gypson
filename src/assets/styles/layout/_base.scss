@@ -1,0 +1,9 @@
+body{
+	@include relaway_font();
+	background-color: #fff9e7;
+}
+.wrapper {
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+}
